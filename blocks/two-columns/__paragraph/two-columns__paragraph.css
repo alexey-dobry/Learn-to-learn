@@ -1,0 +1,16 @@
+.two-columns__paragraph {
+  line-height: 34px;
+  font-size: 24px;
+  font-weight: normal;
+  padding-bottom: 30px;
+}
+  
+.two-columns__paragraph_no_bottom-gap {
+    padding-bottom: 0;
+}
+  
+.two-columns__paragraph_span-accent {
+  line-height: 34px;
+  font-size: 24px;
+  font-weight: 600;
+}

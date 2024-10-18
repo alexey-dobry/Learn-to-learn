@@ -1,0 +1,9 @@
+.footer__link:link, .footer__link:hover, .footer__link:visited{
+  color: white;
+  text-decoration: none;
+}
+
+.footer__link:hover {
+  opacity: .7;
+  transition: opacity .15s linear;
+}
